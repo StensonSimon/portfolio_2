@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545881405 source:g:\study\codeblocks\java\p2\main.cpp
+	<iostream>
+	<ctime>
+
